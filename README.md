@@ -10,6 +10,6 @@ Usando NodeJS com:
 Express
 Mongoose
 Multer
-Sharp
+Jimp
 CORS
 Socket.io
